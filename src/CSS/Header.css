@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville6family=PT+Sans:ital, wght@0,400;0,700;1,400;1,7006family-Work+Sans: wght@400;500; 600;700&display=swap");
+
+.headeron{
+  background: #ffbb00;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  height: 50px;
+  justify-content:left;
+  width: 100%;
+}
+.headeron .logoone {
+  padding-left: 10px;
+  padding-right: 10px;
+}
